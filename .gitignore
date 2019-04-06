@@ -4,3 +4,5 @@
 reports/
 
 sql/
+
+*.ipynb
